@@ -48,7 +48,7 @@ Every repo here is a real artefact of that process — not polished, but honest.
 
 - [x] GitHub + Git + VS Code + Docker — environment set up
 - [x] SSH key authentication complete
-- [ ] CipherAI v1 — Ollama + Streamlit interface live
+- [x] CipherAI v1 — Ollama + Streamlit interface live
 - [ ] RAG pipeline on MITRE ATT&CK and NVD CVE
 - [ ] First Cipher Legend content published
 - [ ] Bytefortix first security report published
