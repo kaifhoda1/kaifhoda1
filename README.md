@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohammad Kaif Hoda | kaifhoda1
-### DevSecOps · AI Security · AI Red Teaming
+### DevSecOps · AI Security 
 
 </div>
 
